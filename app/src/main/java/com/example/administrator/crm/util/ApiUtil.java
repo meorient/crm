@@ -5,8 +5,6 @@ import android.content.Context;
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 
-import org.apache.commons.httpclient.HttpURL;
-
 /**
  * Created by Administrator
  * Date 2019/6/13
